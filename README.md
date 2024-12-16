@@ -1,9 +1,9 @@
-_#**Nut Search**#_
+____#**Nut Search**#___
 
 
 What is NutSearch?:
 ``` Nut Search is a **Web-Proxy** that can be hosted via github codespaces!```
-Cool but how do I use this?
+______Cool but how do I use this?______
 1. Simply fork this
 2. open codespace with this
 3. and then run chmod +x setup_and_run.sh && ./setup_and_run.sh
